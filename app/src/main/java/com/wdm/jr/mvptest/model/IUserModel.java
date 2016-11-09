@@ -16,4 +16,6 @@ public interface IUserModel {
     int getID();
 
     UserBean load(int id);
+
+
 }
