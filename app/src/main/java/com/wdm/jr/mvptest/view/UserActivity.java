@@ -49,7 +49,6 @@ public class UserActivity extends AppCompatActivity implements IUserView, View.O
                 //读取
                 userPersenter.loadUser(getID());
                 break;
-
         }
     }
 
